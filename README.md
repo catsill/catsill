@@ -1,19 +1,5 @@
-# catsill
+# cat on sill
 
-欢迎来到 catsill 项目！
+A sill. That's all.
 
-## 项目介绍
-
-这是一个初始项目，用于 [添加你的项目描述]。
-
-## 快速开始
-
-[添加快速开始指南]
-
-## 贡献
-
-欢迎提交 Pull Request 或报告问题！
-
-## 许可证
-
-[添加许可证信息]
+> *The light on the sill is enough.*
